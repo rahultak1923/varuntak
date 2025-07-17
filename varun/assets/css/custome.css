@@ -1,0 +1,13 @@
+.header-sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+       background-color: transparent;
+    backdrop-filter: blur(10px); /* optional for glass effect */
+}
+@media (max-width: 767px) {
+  .pt-50 {
+    padding-top: 25px !important;
+  }
+}
