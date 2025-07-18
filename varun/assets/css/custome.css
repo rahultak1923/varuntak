@@ -4,7 +4,7 @@
     width: 100%;
     z-index: 999;
        background-color: transparent;
-    backdrop-filter: blur(10px); /* optional for glass effect */
+    backdrop-filter: blur(10px); 
 }
 @media (max-width: 767px) {
   .pt-50 {
